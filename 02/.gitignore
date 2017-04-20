@@ -6,3 +6,5 @@ testcount4r.v
 testcount4rs.v
 testcount4r2.v
 testcount4r2m.v
+alutest.v
+alutest2.v
